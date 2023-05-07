@@ -31,4 +31,4 @@ Then, follow these steps to
 
 ## Disclaimer
 
-Please understand that is all not real. Do not sexualize people in real life or in general and understand the dangers of AI. Okay hf.
+Please understand that is all not real. Please do not sexualize people in general and understand the dangers of AI.
