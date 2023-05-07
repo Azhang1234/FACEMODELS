@@ -10,7 +10,7 @@ These are actually rising in popularity, on twitter and other apps.
 
 ## Example 
 
-![Img](example/1.png)
+![Img](example/2.png)
 
 See below to how to generate this same image.
 
