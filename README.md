@@ -14,19 +14,9 @@ These are actually rising in popularity, on twitter and other apps.
 
 See below to how to generate this same image.
 
-## How to Start UI
+## Instructions:
 
-Open stable_diffusion_1_5_webui_STABLE.ipynb in Google Collab. 
-Connect to a runtime
-Click Runtime -> Run All
-At the end of "Run UI" step, there will be 
-
-Running on public URL: https://30f119ff-c7c6-4a87.gradio.live
-
-Click on the generated link to open the UI:
-
-
-Then, follow these steps to 
+[Instructions](instructions.pdf)
 
 
 ## Disclaimer
