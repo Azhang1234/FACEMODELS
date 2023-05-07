@@ -2,7 +2,7 @@
 
 ## Text-To-Image of photo-realistic AI girl
 
-Using AI to generate photo-realistic asian girls. These are actually rising in popularity, on twitter and other apps.
+Using AI to generate photo-realistic models. These are actually rising in popularity, on twitter and other apps.
 
 ## Example 
 
