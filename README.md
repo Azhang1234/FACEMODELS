@@ -1,12 +1,8 @@
 # Text-To-Image AI Girl Generator using Stable Diffusion
 
-# README is WIP. making a yt video rn
-
 ## Text-To-Image of photo-realistic AI girl
 
-Well, here we are. Using AI to generate photo-realistic asian girls. I'm using this to create a new 
-
-These are actually rising in popularity, on twitter and other apps.
+Using AI to generate photo-realistic asian girls. These are actually rising in popularity, on twitter and other apps.
 
 ## Example 
 
